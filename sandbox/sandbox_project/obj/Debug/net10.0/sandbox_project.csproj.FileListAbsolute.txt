@@ -1,0 +1,15 @@
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/bin/Debug/net10.0/sandbox_project
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/bin/Debug/net10.0/sandbox_project.deps.json
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/bin/Debug/net10.0/sandbox_project.runtimeconfig.json
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/bin/Debug/net10.0/sandbox_project.dll
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/bin/Debug/net10.0/sandbox_project.pdb
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/sandbox_project.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/sandbox_project.AssemblyInfoInputs.cache
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/sandbox_project.AssemblyInfo.cs
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/sandbox_project.csproj.CoreCompileInputs.cache
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/sandbox_project.sourcelink.json
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/sandbox_project.dll
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/refint/sandbox_project.dll
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/sandbox_project.pdb
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/sandbox_project.genruntimeconfig.cache
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/sandbox/sandbox_project/obj/Debug/net10.0/ref/sandbox_project.dll

@@ -1,0 +1,15 @@
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/bin/Debug/net10.0/learn
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/bin/Debug/net10.0/learn.deps.json
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/bin/Debug/net10.0/learn.runtimeconfig.json
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/bin/Debug/net10.0/learn.dll
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/bin/Debug/net10.0/learn.pdb
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/learn.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/learn.AssemblyInfoInputs.cache
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/learn.AssemblyInfo.cs
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/learn.csproj.CoreCompileInputs.cache
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/learn.sourcelink.json
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/learn.dll
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/refint/learn.dll
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/learn.pdb
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/learn.genruntimeconfig.cache
+/mnt/wds/Backup/Documentos/Pathway/desarrollo-estructuras-datos-cse212/cse212-ww-student-template/week02/learn/obj/Debug/net10.0/ref/learn.dll
