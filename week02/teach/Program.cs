@@ -1,3 +1,5 @@
-﻿Console.WriteLine("\n======================\nCustomer Service\n======================");
+﻿Console.WriteLine("\n======================\nComplex Stack\n======================");
+ComplexStack.Run();
+
+Console.WriteLine("\n======================\nCustomer Service\n======================");
 CustomerService.Run();
-// CustomerServiceSolution.Run();
