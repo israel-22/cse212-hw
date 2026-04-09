@@ -9,9 +9,9 @@ public static class Trees
     /// a range (first to last) to consider.  For the first call, the full range of 0 to
     /// Length-1 used.
     /// </summary>
-    public static BinarySearchTree CreateTreeFromSortedList(int[] sortedNumbers)
+   public static BinarySearchTree CreateTreeFromSortedList(int[] sortedNumbers)
     {
-        var bst = new BinarySearchTree(); // Create an empty BST to start with 
+        var bst = new BinarySearchTree();
         InsertMiddle(sortedNumbers, 0, sortedNumbers.Length - 1, bst);
         return bst;
     }
@@ -48,6 +48,23 @@ public static class Trees
     /// <param name="bst">the BinarySearchTree in which to insert the values</param>
     private static void InsertMiddle(int[] sortedNumbers, int first, int last, BinarySearchTree bst)
     {
-        // TODO Start Problem 5
+        if (first > last) 
+            return;
+
+        int mid = first + (last - first) / 2;
+
+        bst.Insert(sortedNumbers[mid]);
+
+        InsertMiddle(sortedNumbers, first, mid - 1, bst);
+        InsertMiddle(sortedNumbers, mid + 1, last, bst);
+    }
+}
+
+// Extensión necesaria para el test de Reverse
+public static class IntArrayExtensionMethods
+{
+    public static string AsString(this IEnumerable<int> array)
+    {
+        return "<IEnumerable>{" + string.Join(", ", array) + "}";
     }
 }

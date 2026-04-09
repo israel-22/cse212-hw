@@ -1,45 +1,49 @@
+using System;
+
 public class Node
 {
     public int Data { get; set; }
-    public Node? Right { get; private set; }
-    public Node? Left { get; private set; }
+    public Node? Left { get; set; }
+    public Node? Right { get; set; }
 
     public Node(int data)
     {
-        this.Data = data;
+        Data = data;
     }
 
+    // Problem 1: Insert Unique Values Only
     public void Insert(int value)
     {
-        // TODO Start Problem 1
+        if (value == Data)
+            return;
 
         if (value < Data)
         {
-            // Insert to the left
-            if (Left is null)
-                Left = new Node(value);
-            else
-                Left.Insert(value);
+            Left ??= new Node(value);
+            Left.Insert(value);
         }
         else
         {
-            // Insert to the right
-            if (Right is null)
-                Right = new Node(value);
-            else
-                Right.Insert(value);
+            Right ??= new Node(value);
+            Right.Insert(value);
         }
     }
 
+    // Problem 2: Contains
     public bool Contains(int value)
     {
-        // TODO Start Problem 2
-        return false;
+        if (value == Data) return true;
+        if (value < Data)
+            return Left?.Contains(value) ?? false;
+        return Right?.Contains(value) ?? false;
     }
 
+    // Problem 4: Tree Height
     public int GetHeight()
     {
-        // TODO Start Problem 4
-        return 0; // Replace this line with the correct return statement(s)
+        if (Left is null && Right is null)
+            return 1;
+
+        return 1 + Math.Max(Left?.GetHeight() ?? 0, Right?.GetHeight() ?? 0);
     }
 }
